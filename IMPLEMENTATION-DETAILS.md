@@ -71,9 +71,6 @@
 
 ### Example
 
-# load module (if built as dynamic)
-load_module modules/ngx_http_geoip2_module.so;
-
 http {
   # GeoIP2 DB
   geoip2 /usr/local/share/GeoIP/GeoLite2-City.mmdb {
