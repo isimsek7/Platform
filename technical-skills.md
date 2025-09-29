@@ -1,22 +1,31 @@
-Technical Skills
+# Technical Skills
 
-Systems Programming
+[![Expertise](https://img.shields.io/badge/Expertise-Systems%20%2B%20Security-blue.svg)](#)
+[![Architecture](https://img.shields.io/badge/Arch-ARM64-red.svg)](#)
+[![Stack](https://img.shields.io/badge/Stack-.NET%20%2B%20Linux-green.svg)](#)
 
-Linux kernel configuration and cross-compilation
-Bootloader customization and deployment
-Build system automation and problem-solving
-ARM64 architecture practical experience
+---
 
-.NET Development
+## Systems Programming
+- Linux kernel configuration and cross-compilation for ARM64  
+- Bootloader (U-Boot) customisation and deployment  
+- Build system automation and pragmatic problem-solving for tricky ALFS/LFS steps  
+- Hands-on ARM64 architecture experience (embedded and server targets)
 
-Deep framework understanding without dependencies
-Custom implementation of standard library functions
-Secure application development practices
-Performance optimization in constrained environments
+---
 
-Security Engineering
+## .NET Development
+- Deep framework understanding implemented without external dependencies  
+- Custom implementations of common framework/standard-library behaviours (serialization, data access, auth)  
+- Secure application development practices and auditability-first design  
+- Performance tuning for constrained and embedded environments
 
-Practical system hardening
-Real-world monitoring implementation
-Supply chain security through source building
-Custom security configurations
+---
+
+## Security Engineering
+- Practical system hardening across kernel, OS and application layers  
+- Real-world monitoring and anomaly-detection implementations (GeoIP, provenance, traffic analysis)  
+- Supply-chain security via full source builds, reproducible artefacts and signing  
+- Custom, auditable security configurations and defence-in-depth design
+
+---
