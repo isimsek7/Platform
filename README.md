@@ -51,3 +51,11 @@ The system is built from source, hardened for reduced attack surface, and includ
 
 ---
 
+## ⚠️ Caution — Intellectual Property Notice
+
+All content, implementations, configurations and design details in this repository (and associated documentation) are the **intellectual property of Anatolio Solutions**. I (the contributor) **do not** hold rights to licence, distribute, publish, or otherwise authorise third-party use of this material.
+
+This content is provided for informational and portfolio-presentation purposes only. **No part** may be copied, reproduced, adapted, published, uploaded, posted, transmitted, sold, sublicensed or commercially exploited in any form without **prior written permission** from Anatolio Solutions.
+
+For permissions, licensing enquiries or authorised use, please contact Anatolio Solutions directly. Unauthorized use may result in legal action.
+
