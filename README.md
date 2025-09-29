@@ -51,5 +51,3 @@ The system is built from source, hardened for reduced attack surface, and includ
 
 ---
 
-## Example repo layout
-
